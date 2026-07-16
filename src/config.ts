@@ -9,13 +9,13 @@ export const SITE = {
 };
 
 export const COURSE = {
-  startDate: '2026-07-30T10:00:00+03:00',
-  earlyBirdDeadline: '2026-07-16T23:59:59+03:00',
+  startDate: '2026-10-01T10:00:00+03:00',
+  earlyBirdDeadline: '2026-09-14T23:59:59+03:00',
   streamNumber: 3,
   durationMonths: 4,
   lessonsCount: 30,
-  startDateLabel: '30 липня',
-  earlyBirdLabel: '16 липня',
+  startDateLabel: '1 жовтня',
+  earlyBirdLabel: '14 вересня',
 };
 
 export const PRICES = {
